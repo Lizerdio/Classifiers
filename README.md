@@ -3,7 +3,7 @@
 This is a small project exploring different hyperparameters for classifiers. 
 
 Classifiers used in this project and their parameter <br /> 
--Logistic: C 
--KNN: K (number of neighbors)
--SVM: gamma
+-Logistic: C <br /> 
+-KNN: K (number of neighbors)<br /> 
+-SVM: gamma<br /> 
 
